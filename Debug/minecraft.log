@@ -1,0 +1,124 @@
+﻿  GL_Plant.cpp
+GL_Plant.cpp(111): error C2511: 'void GL_Plant::RenderAll(double,double)': overloaded member function not found in 'GL_Plant'
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(6): note: see declaration of 'GL_Plant'
+GL_Plant.cpp(113): error C2660: 'GL_Plant::DrawTree': function does not take 6 arguments
+GL_Plant.cpp(120): error C2511: 'void GL_Plant::DrawTree(int,float,float,int,double,double)': overloaded member function not found in 'GL_Plant'
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(6): note: see declaration of 'GL_Plant'
+GL_Plant.cpp(124): error C2597: illegal reference to non-static member 'GL_Plant::m_treeBody'
+GL_Plant.cpp(124): error C3867: 'GL_Plant::m_treeBody': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(124): error C2109: subscript requires array or pointer type
+GL_Plant.cpp(124): error C2660: 'glBindTexture': function does not take 1 arguments
+GL_Plant.cpp(125): error C2352: 'GL_Plant::RenderTreebody': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(29): note: see declaration of 'GL_Plant::RenderTreebody'
+GL_Plant.cpp(133): error C2597: illegal reference to non-static member 'GL_Plant::m_treeBranch'
+GL_Plant.cpp(133): error C3867: 'GL_Plant::m_treeBranch': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(133): error C2109: subscript requires array or pointer type
+GL_Plant.cpp(133): error C2660: 'glBindTexture': function does not take 1 arguments
+GL_Plant.cpp(134): error C2660: 'GL_Plant::RenderBranch': function does not take 6 arguments
+GL_Plant.cpp(169): error C2511: 'void GL_Plant::RenderBranch(int,int,double,double,double,double)': overloaded member function not found in 'GL_Plant'
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(6): note: see declaration of 'GL_Plant'
+GL_Plant.cpp(176): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(176): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(178): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(178): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(178): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(180): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(180): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(182): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(182): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(182): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(184): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(184): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(186): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(186): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(186): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(188): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(188): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(190): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(190): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(190): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(192): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(192): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(194): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(194): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(194): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(196): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(196): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(198): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(198): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(198): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(200): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(200): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(202): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(202): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(202): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(204): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(204): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(206): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(206): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(206): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(208): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(208): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(210): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(210): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(210): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(212): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(212): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(214): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(214): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(214): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(216): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(216): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(218): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(218): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(218): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(220): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(220): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(222): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(222): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(222): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(224): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(224): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(226): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(226): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(226): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(228): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(228): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(230): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(230): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(230): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(232): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(232): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(234): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(234): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(234): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(236): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(236): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(238): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(238): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(238): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(240): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(240): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(242): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(242): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(242): error C2352: 'GL_Plant::RenderPineBranch': illegal call of non-static member function
+  d:\learning materials\2017年大三下\实时图形设计\参考资料\minecraft\GL_Plant.h(24): note: see declaration of 'GL_Plant::RenderPineBranch'
+GL_Plant.cpp(244): error C2597: illegal reference to non-static member 'GL_Plant::m_height'
+GL_Plant.cpp(244): error C3867: 'GL_Plant::m_height': non-standard syntax; use '&' to create a pointer to member
+GL_Plant.cpp(244): fatal error C1003: error count exceeds 100; stopping compilation

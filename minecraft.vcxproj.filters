@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GL_Camera.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Flag.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Font.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_FrameWork.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_House.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Load3DS.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Plant.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Terrain.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Texture.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Vector3.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Water.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_Window.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Me.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GL_Camera.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Flag.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Font.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_FrameWork.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_House.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Load3DS.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Plant.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Terrain.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Texture.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Vector3.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Water.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Window.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Me.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{55346136-ba5c-432a-9b58-f3b81580d83b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{02906e95-ad92-4a87-aa2a-22a50be19314}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
